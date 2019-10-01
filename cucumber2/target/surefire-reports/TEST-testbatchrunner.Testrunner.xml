@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="0" name="testbatchrunner.Testrunner" time="56.335" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="cucumber_casestudy"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="HUDSON_SERVER_COOKIE" value="b076005de8fbf863"/>
+    <property name="POM_ARTIFACTID" value="cucumber"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_212\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_212\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_212\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_212\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_212\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_212\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_212\jre\classes;C:\Program Files (x86)\HPE\Unified Functional Testing\bin\java_shared\classes\jasmine.jar"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="cucumber"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\A07136~1.16\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_212-b10"/>
+    <property name="ST_INSTALL_PATH" value="C:\Program Files (x86)\HPE\Unified Functional Testing\"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="A07136DIRN_H4.04.16"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="cucumber_casestudy"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:9999/job/cucumber_casestudy/7/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#7"/>
+    <property name="OneDrive" value="C:\Users\A07136DIRN_H4.04.16\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_212\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\A07136DIRN_H4.04.16\AppData\Local"/>
+    <property name="java.version" value="1.8.0_212"/>
+    <property name="JAVA_TOOL_OPTIONS" value="-agentlib:jvmhook"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="A07136DIRN_H4.04.16"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_212\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="7"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\softwares\Maven\apache-maven-3.5.0\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_212\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:9999/job/cucumber_casestudy/7/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\A07136~1.16\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.212-b10"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:9999/job/cucumber_casestudy/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DIR"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_212"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="HOMEPATH" value="\Users\A07136DIRN_H4.04.16"/>
+    <property name="USERDNSDOMAIN" value="DIR.SVC.ACCENTURE.COM"/>
+    <property name="_classload_hook" value="jvmhook"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="HDC4-D-CC1SXJ2"/>
+    <property name="POM_GROUPID" value="GID02"/>
+    <property name="user.home" value="C:\Users\A07136DIRN_H4.04.16"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-cucumber_casestudy-7"/>
+    <property name="JENKINS_SERVER_COOKIE" value="b076005de8fbf863"/>
+    <property name="HUDSON_URL" value="http://localhost:9999/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\A07136DIRN_H4.04.16"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_212\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\softwares\Maven\apache-maven-3.5.0/bin;C:\Program Files\Java\jdk1.8.0_212/bin;C:\Program Files\Java\jdk1.8.0_212/bin;C:\Program Files\Java\jdk1.8.0_212\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\HPE\Unified Functional Testing\bin;C:\Users\A07136DIRN_H4.04.16\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.1\bin;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\A07136DIRN_H4.04.16\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\softwares\Maven\apache-maven-3.5.0"/>
+    <property name="java.class.path" value="C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\softwares\Maven\apache-maven-3.5.0\boot\plexus-classworlds-2.5.2.jar;C:\softwares\Maven\apache-maven-3.5.0/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\softwares\Maven\apache-maven-3.5.0 C:\Jenkins\war\WEB-INF\lib\remoting-3.33.jar C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 49354"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_212/bin;C:\Program Files\Java\jdk1.8.0_212\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\HPE\Unified Functional Testing\bin;C:\Users\A07136DIRN_H4.04.16\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.1\bin"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_212/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 94 Stepping 3, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="MSJAVA_ENABLE_MONITORS" value="1"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\softwares\Maven\apache-maven-3.5.0"/>
+    <property name="IBM_JAVA_OPTIONS" value="-Xbootclasspath/a:&quot;C:\Program Files (x86)\HPE\Unified Functional Testing\bin\java_shared\classes\jasmine.jar&quot;"/>
+    <property name="java.io.tmpdir" value="C:\Users\A07136~1.16\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Jenkins"/>
+    <property name="PATH+MAVEN" value="C:\softwares\Maven\apache-maven-3.5.0/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:9999/job/cucumber_casestudy/7/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\windows"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_212\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Users\A07136DIRN_H4.04.16\Desktop\casestudy_ram\casestudy_cucumber-master\cucumber2"/>
+    <property name="_JAVA_OPTIONS" value="-Xbootclasspath/a:&quot;C:\Program Files (x86)\HPE\Unified Functional Testing\bin\java_shared\classes\jasmine.jar&quot;"/>
+    <property name="JOB_URL" value="http://localhost:9999/job/cucumber_casestudy/"/>
+    <property name="LOGONSERVER" value="\\HDCDC3201"/>
+    <property name="USERDOMAIN" value="DIR"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\softwares\Maven\apache-maven-3.5.0"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="7"/>
+    <property name="JENKINS_URL" value="http://localhost:9999/"/>
+    <property name="PROCESSOR_REVISION" value="5e03"/>
+    <property name="UATDATA" value="C:\windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\windows"/>
+    <property name="=C:" value="C:\softwares"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE" value="C:\Jenkins\workspace\cucumber_casestudy"/>
+    <property name="maven3.interceptor.common" value="C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="%ProgramFiles%\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase classname="TestmeApp" name="1.Register User" time="35.407"/>
+  <testcase classname="TestmeApp" name="User Login" time="2.845"/>
+  <testcase classname="TestmeApp" name="The one where user moves to cartwithout adding any item in it" time="18.083"/>
+</testsuite>
